@@ -2,12 +2,7 @@
 
 <h1 align="center">
   <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="SmartRoom logo" width="250"/>
-<style>
-  .bottom-three {
-     margin-bottom: 3cm;
-  }
-</style>
-  
+<p>   </p>
   <p align="center">Dissertação de Humberto Almeida Guimarães - UFJF</p>
 </h1>
 
