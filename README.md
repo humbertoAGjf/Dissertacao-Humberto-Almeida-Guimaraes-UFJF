@@ -9,11 +9,7 @@
   <p>   </p>
     <body>
     <div>
-      PageUp↑
-      <br> ←Home
       <spacer type="horizontal" width="100" height="100"> ♢ </spacer>
-      End→
-      <br> PageDown↓
     </div>
   </body>
   <p> TITULO GIGANTESCO </p>
