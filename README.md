@@ -9,7 +9,7 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 
 ## Descritivo dos arquivos
 
-- **Dissertação**
+- **Dissertação em formato pdf**
 - **Arquivos em formato MATLAB desenvolvidos por Humberto Almeida Guimarães**
 - **Arquivos em formato Anatem (CEPEL) disponibilizados pelo ONS**
 - **Arquivos em formato Anarede (CEPEL) disponibilizados pelo ONS**
