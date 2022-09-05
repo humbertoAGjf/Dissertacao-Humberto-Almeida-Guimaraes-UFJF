@@ -7,7 +7,8 @@
 </h1>
 
 ## Introdução
-Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por <strong>Humberto Almeida Guimarães</strong> e orientada por João Alberto Passos Filho. Os programas serão apresentados e explicados na ordem em que são utilizados nesse trabalho.
+Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por <strong>Humberto Almeida Guimarães</strong> e orientada por João Alberto Passos Filho. 
+Os arquivos aqui disponíveis serão apresentados e explicados na ordem em que são utilizados nesse trabalho.
 
 ## Descritivo dos arquivos
 
