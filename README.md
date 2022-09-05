@@ -9,7 +9,7 @@
   <p>   </p>
     <body>
     <div>
-      <spacer type="horizontal" width="100" height="100"> ♢ </spacer>
+      <spacer type="horizontal" width="100" height="100">  </spacer>
     </div>
   </body>
   <p> TITULO GIGANTESCO </p>
