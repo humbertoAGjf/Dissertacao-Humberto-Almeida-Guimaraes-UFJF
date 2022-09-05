@@ -1,8 +1,7 @@
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Logo_da_UFJF.png" alt="SmartRoom logo" width="250"/>
 
-# Dissertação de Humberto Almeida Guimarães - UFJF
- Códigos e arquivos utilizados na dissertação
+<h1 align="center">
+  <p align="center">Dissertação de Humberto Almeida Guimarães - UFJF</p>
+</h1>
 
-
-
-Logo_da_UFJF
+Neste repositório estão disponíveis os seguintes arquivos:
