@@ -135,7 +135,7 @@ FptHVDCE = [
 DELO = [    
 %     (**) - > Normal=0, HighMvarConsumption=1, SFT(Tiristor)=2 , Convencional(Tiristor)=3 , Stab50(Tiristor)=4, SFT(Tap)=5, Convencional(Tap)=6, Stab50(Tap)=7
 %                                                (**) \/    dado do DCBA \/ 0=Vdr,1=Vdi      
- %De   %Para   %RccOhms  Lcc_mH    VbElo   PbElo  ModoElo   Vesp        VdRef
+ %De   %Para   %RccOhms  Lcc_mH    VbElo   PbElo  ModoElo      Vesp     VdRef
    1       2       10.5  1231.9      600    1566        2   572.604         1
    1       2       10.5  1231.9      600    1566        2   572.604         1
    1       2       10.5  1231.9      600    1566        2   572.604         1
