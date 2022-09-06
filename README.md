@@ -15,7 +15,7 @@ Em caso de dúvidas, contatar o email humberto.guimaraes@engenharia.ufjf.br.
 
 ## Descritivo dos arquivos
 
-- **Dissertação em formato pdf**
+- **Dissertação em formato .pdf**
 - **Arquivos em formato MATLAB desenvolvidos por Humberto Almeida Guimarães**
 - **Diagramas Explicativos de parte do Controle no elo Foz-Ibiuna**
 - **Imagens utilizadas neste repositório**
