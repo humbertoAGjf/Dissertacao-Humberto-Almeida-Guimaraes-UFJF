@@ -19,7 +19,7 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 
 ## Como gerar os resultados em MATLAB
 
-Existem 2 pastas com programas: (i) "Calcula_Curvas_P_e_Q_Constantes", a qual é utilizada apenas para gerar as curvas P e Q constantes; (ii) "FP_Completo", a qual é utilizada para gerar o restante dos resultados.
+Existem 2 pastas com programas: "Calcula_Curvas_P_e_Q_Constantes", a qual é utilizada apenas para gerar as curvas P e Q constantes; "FP_Completo", a qual é utilizada para gerar o restante dos resultados.
 
 - **FP_Completo**
 
