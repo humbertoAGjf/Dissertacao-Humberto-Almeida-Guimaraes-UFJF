@@ -10,7 +10,7 @@
 Este programa possui duas funções. A primeira é plotar o gráfico com as curvas P e Q constantes, assim como apresentado na dissertação. A segunda função é permitir que o usuário varie os valores especificados para obter, iterativamente, os resultados do HVDC, permitindo uma rápida análise de seu comportamento. <strong>Atenção!</Strong> Este não é um fluxo de potência completo, pois utiliza apenas o sistema HVDC, considerando as tensões nas barras adjacentes como 1 pu.
 
 
-- **Calcula_Curvas_P_e_Q_Constantes**
+## Modo de Usar
 
 Apenas o arquivo <strong>Main.mlx</strong> e o arquivo de dados <strong>Sistema_HVDC_FOZ_IBIUNA.m</strong> devem ser utilizados.
 
