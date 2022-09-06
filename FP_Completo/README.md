@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo/Sistemas"><strong>"README.md"</strong></a> presente na pasta <strong>"Sistemas"</strong>.
+Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo/Sistemas"><strong>README.md</strong></a> presente na pasta <strong>Sistemas</strong>.
 
 
 
