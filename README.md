@@ -7,7 +7,7 @@
 </h1>
 
 ## Introdução
-Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por <strong>Humberto Almeida Guimarães</strong> e orientada por João Alberto Passos Filho. Em caso de dúvidas, contatar o email <strong>[humberto.guimaraes@engenharia.ufjf.br]<\strong>.
+Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por <strong>Humberto Almeida Guimarães</strong> e orientada por João Alberto Passos Filho. Em caso de dúvidas, contatar o email <strong>humberto.guimaraes@engenharia.ufjf.br<\strong>.
 
 ## Descritivo dos arquivos
 
