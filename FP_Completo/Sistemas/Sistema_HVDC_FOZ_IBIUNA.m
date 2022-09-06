@@ -126,9 +126,7 @@ FptHVDCE = [
 % OBS: CASO UMA DAS BARRAS QUE IRA RECEBER A LINHA HVDC SEJA DE REF.,
 % DEVE-SE LIGAR A FUNCAO CONTROLA RESIDUO
 DELO = [    
-%     (**) - > Normal=0, HighMvarConsumption=1, SFT(Tiristor)=2 , Convencional(Tiristor)=3 , Stab50(Tiristor)=4, SFT(Tap)=5, Convencional(Tap)=6, Stab50(Tap)=7
-%                                                (**) \/    dado do DCBA \/ 0=Vdr,1=Vdi      
- %De   %Para   %RccOhms  Lcc_mH    VbElo   PbElo  ModoElo      Vesp     VdRef
+ %De    Para    RccOhms  Lcc_mH    VbElo   PbElo  ModoElo      Vesp     VdRef
    1       2       10.5  1231.9      600    1566        2   572.604         1
    1       2       10.5  1231.9      600    1566        2   572.604         1
    1       2       10.5  1231.9      600    1566        2   572.604         1
@@ -137,7 +135,6 @@ DELO = [
 
 % Dados dos conversores
 DCNV = [
-%              Ind   0 = ret                                       Ñ uso
 %Ind  BarraCa EloCC RetOuInv Pontes   Inom    Xc     Vfs  SBtrafo  Freq
    1        1     1        0      4   2610  17.8   127.4    471.0    50
    2        2     1        1      4   2610  17.2   122.0    450.0    60
@@ -161,17 +158,17 @@ DCNV = [
 %     1    0  2610.    10  9999       15.0    12.5    17.0  .925 1.250 0.9         1.250          1         1.0054565
 %     2    0  2610.    10  9999       17.0    17.0    17.0  .925 1.305 0.9         1.305          1         1.0014274];
 
-DCCV = [                                                                                                             
-%DCNV Modo  MwouA  em %  em %   gammaEsp GammaMn GammaMx          ModoVdcmin             ModoVdcmin                  
-% Ind CouP   Vesp  Marg  IMax  ouAlfaEsp  AlfaMn  AlfaMx TapMn TapMx Vmn TapdoHighMvar        Tap    TapEsp          
-    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9         1.250          1         1.0054565  
-    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9         1.305          1         0.96  
-    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9         1.250          1         1.0054565  
-    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9         1.305          1         0.96   
-    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9         1.250          1         1.0054565  
-    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9         1.305          1         0.96  
-    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9         1.250          1         1.0054565  
-    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9         1.305          1         0.96];
+DCCV = [                                                            
+% Ind CouP   Vesp  Marg  IMax    AlfaEsp  AlfaMn  AlfaMx TapMn TapMx Vmn     TapEsp          
+    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9  1.0054565  
+    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9       0.96  
+    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9  1.0054565  
+    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9       0.96   
+    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9  1.0054565  
+    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9       0.96  
+    1    0  2610.    10  9999       15.0      5.   84.99  .925 1.250 0.9  1.0054565  
+    2    0  2610.    10  9999       17.0     17.   72.74  .925 1.305 0.9       0.96
+];
 
 DadoInc = [  0.01 %PASSO_INI                                                                        
               1E5 %CALC_MAX                                                                         

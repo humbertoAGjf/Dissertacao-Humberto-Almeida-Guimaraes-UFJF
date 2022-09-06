@@ -129,16 +129,16 @@ function [NBar, NLin, IndBar, BarGer, BarEMF, BarVTh, BTipo, PgEsp, PgeEsp, QgEs
                 DHVDC(i,22) = DELO(i,8)/DELO(i,5);  % Tensão Vd especificada            
                 DHVDC(i,23) = DELO(i,6)/100;        % Scc_ca = Scc_base/Sca_base
                 DHVDC(i,24) = DCCV(IndR,11);        % Tensão do modo VdcMin
-                DHVDC(i,25) = 1./DCCV(IndR,12);     % Tap do conversor para o modo HighMvar
-                DHVDC(i,26) = 1./DCCV(IndR,13);     % Tap do conversor para o modo VdcMin
+                DHVDC(i,25) = 0;                    % Removido dessa versão
+                DHVDC(i,26) = 0;                    % Removido dessa versão
                 DHVDC(i,27) = DCCV(IndR,2);         % Modo de Operação: Controle de corrente ou de potência
                 DHVDC(i,29) = DCNV(IndR,5);         % Nºo de pontes do ret
                 DHVDC(i,30) = DCNV(IndR,5);         % Nºo de pontes do inv
                 DHVDC(i,31) = DELO(i,9);            % Escolhe qual será a tensão CC de Ref a ser controlada
                 DHVDC(i,32) = 0;
-                if (size(DCCV,2)>13)
-                    DHVDC(i,33) = 1/DCCV(IndR,14);      % Tap Ret Esp
-                    DHVDC(i,34) = 1/DCCV(IndI,14);      % Tap Inv Esp
+                if (size(DCCV,2)>11)
+                    DHVDC(i,33) = 1/DCCV(IndR,12);      % Tap Ret Esp
+                    DHVDC(i,34) = 1/DCCV(IndI,12);      % Tap Inv Esp
                 else
                     DHVDC(i,33) = 1;
                     DHVDC(i,34) = 1;
