@@ -32,23 +32,16 @@ LoadDamping = [
 %     10    1  1
 ];
 
-% % Fator de Participacao para Controle Primario de frequencia (Estatismo)
-% FptGerE = [
-% %BarGer  Estatismo(%)   MVaMaq1     MVaMaq2
-%      10             5    8944.5   % 524.9895         % Para Variação de potência
-%      20             5    8000.0   % 524.9895         % de até 737 MW e acima
-% ];
-
 % Fator de Participacao para Controle Primario de frequencia (Estatismo)
 FptGerE = [
-%BarGer  Estatismo(%)   MVaMaq1     MVaMaq2
-     10          5.00    40000.0   % 524.9895         % Para Variação de potência
-     20          5.00    4000.0   % 524.9895         % de até 737 MW e acima
+%BarGer  Estatismo(%)     MVaMaq    
+     10          5.00    40000.0 
+     20          5.00     4000.0   
 ];
 
 FptHVDCE = [
 % STF(Tiristor) (M0 = 400MW/Hz)  /// Tapi = 0,96 e V3 = 1,1002
-% IndElo        #Mf             #Mv   MfMax     
+% IndElo         Mf              Mv      MfMax     
        1   15.32567        1.073720         12             
        2   15.32567        1.073720         12
        3   15.32567        1.073720         12
