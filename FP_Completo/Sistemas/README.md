@@ -3,11 +3,15 @@
 <h1 align="center">
   <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="Ufjf logo" width="250"/>
 <p>   </p>
-<p> ENTRADA DE DADOS </p>
+<p> Entrada de Dados </p>
 </h1>
 
 ## Introdução
 
-Nesta seção será explicada a função de cada matriz de dados e como alterá-las.
+Este documento tem a finalidade de explicar o arquivo entrada de dados, permitindo que o usuário possa alterá-lo conforme sua necessidade.
 
+## Modo de usar
 
+> A Matriz <strong>DBAR</strong> - teste
+
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Flags Main" width="90%"/>
