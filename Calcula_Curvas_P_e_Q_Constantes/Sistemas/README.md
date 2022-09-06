@@ -8,6 +8,6 @@
 
 ## Introdução
 
-Este programa utiliza apenas o primeiro elo HVDC do sistema. Em caso de dúvidas com relação a entrada de dados, leia a <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/FP_Completo/Sistemas/README.md">seção de explicação<\a> na pasta fluxo de potência completo.
+Este programa utiliza apenas o primeiro elo HVDC do sistema. Em caso de dúvidas com relação a entrada de dados, leia a <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/FP_Completo/Sistemas/README.md">seção de explicação</a> na pasta fluxo de potência completo.
 
 
