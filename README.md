@@ -19,7 +19,7 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 
 ## Gerando os Resultados
 
-Existem 2 pastas com programas: href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/Calcula_Curvas_P_e_Q_Constantes"><strong>Calcula_Curvas_P_e_Q_Constantes</strong></a>, a qual é utilizada apenas para gerar as curvas P e Q constantes; <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo"><strong>FP_Completo</strong></a>, a qual é utilizada para gerar o restante dos resultados.
+Existem 2 pastas com programas: <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/Calcula_Curvas_P_e_Q_Constantes"><strong>Calcula_Curvas_P_e_Q_Constantes</strong></a>, a qual é utilizada apenas para gerar as curvas P e Q constantes; <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo"><strong>FP_Completo</strong></a>, a qual é utilizada para gerar o restante dos resultados.
 
 
 
