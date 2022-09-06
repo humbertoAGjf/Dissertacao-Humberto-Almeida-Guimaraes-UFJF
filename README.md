@@ -22,7 +22,7 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 Existem 2 pastas com programas: "Calcula_Curvas_P_e_Q_Constantes", a qual é utilizada apenas para gerar as curvas P e Q constantes; "FP_Completo", a qual é utilizada para gerar o restante dos resultados.
 
 - **FP_Completo**
-- 
+
 Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas presentes na pasta Sistema devem ser utilizados.
 
 > No arquivo <strong>Main.mlx</strong> deve-se ligar as funções de acordo com o seu objetivo. Para isto, basta alterar o seguinte trecho do programa:
@@ -41,4 +41,6 @@ Apenas o arquivo <strong>Main.mlx</strong> e o arquivo de dados <strong>Sistema_
 >  No Main é possível gerar o gráfico das curvas P e Q contantes. Para isso a checkbox deve ser marcada e os dados do plot escolhidos.
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem4.png" alt="Flags Main" width="90%"/>
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem5.png" alt="Flags Main" width="90%"/>
+
+## Entenda os Arquivos de Entrada de Dados dos Sistema
 
