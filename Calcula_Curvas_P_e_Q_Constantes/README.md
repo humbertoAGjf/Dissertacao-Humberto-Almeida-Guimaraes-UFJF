@@ -7,7 +7,7 @@
 </h1>
 
 ## Introdução
-Este programa possui duas funções. A primeira é plotar o gráfico com as curvas P e Q constantes, assim como apresentado na dissertação. A segunda função é permitir que o usuário varie os valores especificados para obter, iterativamente, os resultados do HVDC, permitindo uma rápida análise de seu comportamento. <strong>Atenção!</Strong> Este não é um <a>ref="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo">fluxo de potência completo</a>, pois utiliza apenas o sistema HVDC, considerando as tensões nas barras adjacentes como 1 pu.
+Este programa possui duas funções. A primeira é plotar o gráfico com as curvas P e Q constantes, assim como apresentado na dissertação. A segunda função é permitir que o usuário varie os valores especificados para obter, iterativamente, os resultados do HVDC, permitindo uma rápida análise de seu comportamento. <strong>Atenção!</Strong> Este não é um <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo">fluxo de potência completo</a>, pois utiliza apenas o sistema HVDC, considerando as tensões nas barras adjacentes como 1 pu.
 
 
 ## Modo de Usar
