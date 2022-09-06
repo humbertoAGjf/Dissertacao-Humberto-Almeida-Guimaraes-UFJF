@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/tree/main/FP_Completo/Sistemas"><strong>"README.md"</strong></a> presente na pasta <strong>"Sistemas"</strong>.
+Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o <a href="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/FP_Completo/Sistemas/README.md"><strong>README.md</strong></a> presente na pasta <strong>Sistemas</strong>.
 
 
 
@@ -20,5 +20,5 @@ Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas dev
 > Para cada função ativada, pode ser necessário alterar alguns de seus parâmetros. Abaixo é apresentado um exemplo para o fluxo de potência, no qual pode ser escolhido se será ou não considerado o controle de tensão, flatstart, controle secundário de frequência (CAG) e controle primário de frequência (Governor). Além disso, ainda podem ser feitas alterações nos passos de convergência do FP.
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem2.png" alt="Flags Main" width="90%"/>
 
-> Para selecionar o arquivo de sistema que será utilizado, basta trocar o seu nome na aba "Sistema Utilizado nas Análises":
+> Para selecionar o arquivo de sistema que será utilizado, basta trocar o nome na aba "Sistema Utilizado nas Análises":
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem3.png" alt="Flags Main" width="90%"/>
