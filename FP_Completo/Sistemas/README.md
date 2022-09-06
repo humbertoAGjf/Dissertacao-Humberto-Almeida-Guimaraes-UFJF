@@ -61,3 +61,8 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 > - Estatismo(%): valor do estatismo em porcento da potência base da máquina
 > - MvaMaq: valor em MVa da potência base do gerador (Caso esta coluna seja omitida, o valor utilizado será a potência ativa especificada em DBAR).
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem12.png" alt="Matriz FptGerE" width="90%"/>
+
+<strong>Dados da matriz FptHVDCE</strong>:
+> - IndElo: índice do elo em que será feito o controle de frequência primário.
+> - #Mf: Stab50 = $K_1$; Caso convencional ou STF sem controle dinâmico = $m_0$; Caso STF com $m_f$ fixo = valor de $m_f$ calculado.
+> - #Mv: Stab50 = $K_2$; Caso convencional = remover a coluna; Caso STF com $m_f$ fixo = valor de $m_f$ calculado.
