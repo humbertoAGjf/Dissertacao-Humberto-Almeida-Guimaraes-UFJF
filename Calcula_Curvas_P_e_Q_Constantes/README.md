@@ -14,7 +14,7 @@ Este programa possui duas funções. A primeira é plotar o gráfico com as curv
 
 Apenas o arquivo <strong>Main.mlx</strong> e o arquivo de dados <strong>Sistema_HVDC_FOZ_IBIUNA.m</strong> devem ser utilizados.
 
-> Para a análise iterativa do comportamento do elo CCAT, deve-se apenas variar os valores na seção "Dados do HVDC". <strong>Dica:<strong> para facilitar a visualização, recomenda-se desabilitar a rolagem síncrona do MATLAB.
+> Para a análise iterativa do comportamento do elo CCAT, deve-se apenas variar os valores na seção "Dados do HVDC". <strong>Dica:</strong> para facilitar a visualização, recomenda-se desabilitar a rolagem síncrona do MATLAB.
 
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem6.png" alt="Flags Main" width="90%"/>
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem7.png" alt="Flags Main" width="90%"/>
