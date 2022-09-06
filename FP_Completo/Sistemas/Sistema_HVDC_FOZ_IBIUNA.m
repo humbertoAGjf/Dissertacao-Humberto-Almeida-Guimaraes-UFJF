@@ -22,7 +22,7 @@ DLIN = [
 
 
 DArea = [
-%Area %Freq 
+%Area  Freq 
     1    50 
     2    60 
 ];
