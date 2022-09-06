@@ -28,4 +28,8 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 > - BarC: índice da barra que é controlada pelo gerador desta barra (Válido apenas para barras com geradores).
 > - Area: índice da área à qual a barra pertence.
 > - Vbase: tensão base da barra.
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem8.png" alt="Flags Main" width="90%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem8.png" alt="Matriz DBar" width="90%"/>
+
+> <strong>Dados da matriz DBAR</strong>:
+> - Num: índice da barra.
+> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem9.png" alt="Matriz DLin" width="90%"/>
