@@ -100,7 +100,7 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 > - Vesp: valor esperado do controle de potência do elo. Caso seja controlado por corrente constante → valor em Amperes; Caso seja controlado por potência contante → valor em MW.
 > - Marg: valor da margem de corrente usada no método de controle por margem de corrente, em %.
 > - Imax: corrente máxima no elo em % da nominal.
-> - AlfaEsp: ângulo esperado de disparo do retificador ($\alpha$) ou de extinsão do inversor ($\gamma$), em graus.
+> - AlfaEsp: ângulo esperado de disparo do retificador ( $\alpha$ ) ou de extinsão do inversor ( $\gamma$ ), em graus.
 > - AlfaMn: Limite mínino de ângulo no retificador ou no inversor.
 > - AlfaMx: Limite máximo de ângulo no retificador ou no inversor.
 > - TapMn: Limite mínimo do tap no transformador. 
