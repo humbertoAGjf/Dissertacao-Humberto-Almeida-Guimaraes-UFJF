@@ -106,6 +106,10 @@ function CalculoFptHVDC(TipoFpt, FILENAME, FlatStart, Passo, ControleTen, Contro
 
 %% % Regulacao Primaria do artigo - Calculada Numericamente
         case 2 
+            if (ControleTen == 1)
+                fprintf("ATENÇÃO!!! O ELO DEVE ESTAR COM O CONTROLE DE TENSÃO DESATIVADO PARA CALCULAR O VALOR DE mf E mv!");
+                return;
+            end
             [NBar, NLin, IndBar, BarGer, BarEMF, BarVTh, BTipo, PgEsp, PgeEsp, QgEsp, QgMax, QgMin, Pc, Qc, Qs, Ps, VEsp, ThEsp, DE, PARA, ...
                 r, x, BSh_Lin, TapEsp, TapMin, TapMax, TapPh, MvaMax, LTipo, NGer, BarCGer, TapC, BarCTap, LadoCTap, FptTap, FptGerR, FptGerA, FptGerE,...
                     FreqEsp, Area, DArea, LoadDamping, FptHVDCE, DHVDC, LinhasHVDC, XhvdcEsp, DadoInc, DincCarga, DincGerador] = Dados(FILENAME, 1);

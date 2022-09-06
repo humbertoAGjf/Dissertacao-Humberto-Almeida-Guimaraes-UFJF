@@ -31,6 +31,8 @@ function Plota_Grafico_PCAxXvar(TipoMatrizJ_PlotPCA, GovernorControl, ControleRe
         ControleTen = ControleTenAux;
         
         Y = Cria_Matriz_Admitancia(NBar, NLin, IndBar, DE, PARA, BSh_Lin, Qs, Ps, r, x, Tap, TapPh, LTipo);
+        [ModoGer, GerLim, ModoTap, TapLim, ModoHVDC, HVDCLim] = Limites(QgEsp, V, Xhvdc, DHVDC, VEsp, BarGer, BarCGer, QgMin, QgMax, TapC, BarCTap, Tap, LadoCTap, TapMin, TapMax, ControleTen, Area, Freq, FptHVDCE, GovernorControl);
+        
         J = Cria_J(NBar, Y, V, Th, Freq, Tap, Xhvdc, DHVDC, ModoHVDC, r, x, BarVTh, BarGer, BarCGer, ModoGer, TapC, ModoTap, BarCTap, Pcal, Qcal, ControleTen, ControleRes, GovernorControl, FptTap, FptGerR, FptGerA, FptGerE, Area, LoadDamping, FptHVDCE, Pc, Qc, 0);
         
         if ControleRes == 0
@@ -54,7 +56,7 @@ function Plota_Grafico_PCAxXvar(TipoMatrizJ_PlotPCA, GovernorControl, ControleRe
         NPlot = 0;
 
         if (PlotAutovalor == 1)
-            [~, ~, CellDj] = Plota_Analise_AutoValores(J, TipoMatrizJ_PlotPCA, LambdaMaxA, NLambdaA, FPMinA, MSMinA, NBar, BarCGer, BarGer, TapC, FptGerA, FptGerE, Area, DHVDC, IndBar, ControleTen, ControleRes, GovernorControl, IsPlotOn);                                            
+            [~, ~, CellDj] = Plota_Analise_AutoValores(J, TipoMatrizJ_PlotPCA, LambdaMaxA, NLambdaA, FPMinA, MSMinA, NBar, BarCGer, BarGer, TapC, BarCTap, FptGerA, FptGerE, Area, DHVDC, IndBar, ControleTen, ControleRes, GovernorControl, IsPlotOn);                                            
         end
 
         [~, ~, PCVariance] = Plota_Conflitos_Por_PCA(J,TipoMatrizJ_PlotPCA,TapC,BarCTap,BarGer,BarCGer,NBar, IndBar, FptGerA, FptGerE, Area, DHVDC, Vmin, SM, SA, NPlot, ControleTen, ControleRes, GovernorControl, IsPlotOn);
