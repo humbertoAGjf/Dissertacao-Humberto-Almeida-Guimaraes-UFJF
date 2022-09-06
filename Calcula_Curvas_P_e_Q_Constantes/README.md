@@ -14,6 +14,13 @@ Este programa possui duas funções. A primeira é plotar o gráfico com as curv
 
 Apenas o arquivo <strong>Main.mlx</strong> e o arquivo de dados <strong>Sistema_HVDC_FOZ_IBIUNA.m</strong> devem ser utilizados.
 
->  No Main é possível gerar o gráfico das curvas P e Q contantes. Para isso a checkbox deve ser marcada e os dados do plot escolhidos.
+> Para a análise iterativa do comportamento do elo CCAT, deve-se apenas variar os valores na seção "Dados do HVDC". <strong>Dica:<strong> para facilitar a visualização, recomenda-se desabilitar a rolagem síncrona do MATLAB.
+
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem6.png" alt="Flags Main" width="90%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem7.png" alt="Flags Main" width="90%"/>
+
+
+>  No Main é possível gerar o gráfico das curvas P e Q contantes. Para isso a checkbox deve ser marcada e os dados do plot escolhidos. Vale destacar que os dados do HVDC utilizados na análise anterior também influênciam no plot das curvas. 
+
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem4.png" alt="Flags Main" width="90%"/>
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem5.png" alt="Flags Main" width="90%"/>
