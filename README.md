@@ -24,5 +24,5 @@ Existem 2 pastas com programas: "Calcula_Curvas_P_e_Q_Constantes", a qual é uti
 - **FP_Completo**
 
 > No arquivo <strong>Main.mlx</strong> deve-se ligar as funções de acordo com o seu objetivo. Para isto, basta alterar o seguinte trecho do programa:
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Flags Main" width="80%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Flags Main" width="90%"/>
 
