@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="Ufjf logo" width="250"/>
 <p>   </p>
-<p> Programa Auxiliar Para Análise do Sistema CCAT </p>
+<p> Programa Auxiliar Para a Análise do Sistema CCAT </p>
 </h1>
 
 ## Introdução
