@@ -15,6 +15,11 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 - **Arquivos em formato MATLAB desenvolvidos por Humberto Almeida Guimarães**
 - **Arquivos em formato Anatem (CEPEL) disponibilizados pelo ONS**
 - **Arquivos em formato Anarede (CEPEL) disponibilizados pelo ONS**
-- **Imagens obtidas como resultado das simulações**
+- **Imagens utilizadas neste repositório**
 
-## Arquivos em formato MATLAB
+## Como gerar os resultados em MATLAB
+
+Existem 2 pastas com programas: (i) <strong>Calcula_Curvas_P_e_Q_Constantes</strong>, a qual é utilizada apenas para gerar as curvas P e Q constantes; (ii) <strong>FP_Completo</strong>, a qual é utilizada para gerar o restante dos resultados.
+
+
+<strong>Calcula_Curvas_P_e_Q_Constantes</strong>
