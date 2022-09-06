@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas presentes na pasta Sistema devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o "README.md" presente na pasta "Sistemas".
+Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas devem ser utilizados. Para mais informações sobre o arquivo de entrada de dados, leia o <strong>"README.md"</strong> presente na pasta <strong>"Sistemas"</strong>.
 
 
 ## Modo de usar
