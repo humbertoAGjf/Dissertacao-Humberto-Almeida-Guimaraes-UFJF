@@ -48,9 +48,16 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 > <strong>Dados da matriz DArea</strong>:
 > - Area: índice da área.
 > - Freq: frequência nominal da área.
-> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DLin" width="90%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DArea" width="90%"/>
 
 > <strong>Dados da matriz LoadDamping</strong>:
 > - Barra: índice da barra que terá consirado a queda da potência com frequência.
 > - Dp: queda da potência ativa com a frequência $\Delta P_c^{pu} = Dp.\Delta f^{pu}$
-> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DLin" width="90%"/>
+> - Dq: queda da potência reativa com a frequência $\Delta Q_c^{pu} = Dq.\Delta f^{pu}$
+> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem11.png" alt="Matriz LoadDamping" width="90%"/>
+
+> <strong>Dados da matriz FptGerE</strong>:
+> - BarGer: índice da barra do gerador considerado.
+> - Estatismo(%): valor do estatismo em porcento da potência base da máquina
+> - MvaMaq: valor em MVa da potência base do gerador (Caso esta coluna seja omitida, o valor utilizado será a potência ativa especificada em DBAR).
+> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem12.png" alt="Matriz FptGerE" width="90%"/>
