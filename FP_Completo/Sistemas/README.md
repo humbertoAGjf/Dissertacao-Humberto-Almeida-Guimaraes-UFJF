@@ -52,5 +52,5 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 
 > <strong>Dados da matriz LoadDamping</strong>:
 > - Barra: índice da barra que terá consirado a queda da potência com frequência.
-> - Dp: queda da potência ativa com a frequência $ \Delta P_c^{pu} = Dp.\Delta f^{pu}$
+> - Dp: queda da potência ativa com a frequência $\Delta P_c^{pu} = Dp.\Delta f^{pu}$
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DLin" width="90%"/>
