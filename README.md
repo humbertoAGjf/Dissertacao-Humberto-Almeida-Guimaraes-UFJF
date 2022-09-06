@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="SmartRoom logo" width="250"/>
+  <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="Ufjf logo" width="250"/>
 <p>   </p>
 <p> TITULO GIGANTESCO </p>
 </h1>
@@ -24,5 +24,5 @@ Existem 2 pastas com programas: (i) <strong>Calcula_Curvas_P_e_Q_Constantes</str
 - **FP_Completo**
 
 > No arquivo <strong>Main.mlx</strong> deve-se ligar as funções de acordo com o seu objetivo. Para isto, basta alterar o seguinte trecho do programa:
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png.png" alt="SmartRoom logo" width="250"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Flags Main" width="250"/>
 
