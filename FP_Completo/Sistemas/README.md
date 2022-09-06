@@ -12,6 +12,7 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 
 ## Modo de usar
 
-> A Matriz <strong>DBAR</strong> - teste
+> A Matriz <strong>DBAR</strong> 
+> - teste
 
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Flags Main" width="90%"/>
