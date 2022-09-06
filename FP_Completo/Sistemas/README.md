@@ -49,3 +49,8 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 > - Area: índice da área.
 > - Freq: frequência nominal da área.
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DLin" width="90%"/>
+
+> <strong>Dados da matriz LoadDamping</strong>:
+> - Barra: índice da barra que terá consirado a queda da potência com frequência.
+> - Dp: queda da potência ativa com a frequência ($\sqrt{3x-1}+(1+x)^2$
+> <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem10.png" alt="Matriz DLin" width="90%"/>
