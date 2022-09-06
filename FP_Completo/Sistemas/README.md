@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Este documento tem a finalidade de explicar o arquivo entrada de dados, permitindo que o usuário possa alterá-lo conforme sua necessidade.
+Este documento tem a finalidade de explicar o arquivo de entrada de dados, permitindo que o usuário possa alterá-lo conforme sua necessidade.
 
 ## Modo de usar
 
