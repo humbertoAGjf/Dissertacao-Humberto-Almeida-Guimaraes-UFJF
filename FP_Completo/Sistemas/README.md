@@ -12,7 +12,7 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 
 ## Modo de usar
 
-> Dados da matriz <strong>DBAR</strong>:
+> <strong>Dados da matriz DBAR</strong>:
 > - Num: índice da barra.
 > - BarType: 0 = barra PQ; 1 = barra PV; 2 = Barra de referência (é necessário 1 barra de referência para cada área do sistema).
 > - Pgerad: potência no gerador especificada.
