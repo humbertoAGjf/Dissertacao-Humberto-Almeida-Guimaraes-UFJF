@@ -1,11 +1,13 @@
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Logo_da_UFJF.png" alt="SmartRoom logo" width="250"/>
+
 
 <h1 align="center">
-  <p align="center">Dissertação de Humberto Almeida Guimarães - UFJF</p>
+  <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Logo_da_UFJF.png" alt="SmartRoom logo" width="250"/>
+<p>   </p>
+<p> TITULO GIGANTESCO </p>
 </h1>
 
 ## Introdução
-Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por Humberto Almeida Guimarães e orientada por João Alberto Passos Filho. Os programas serão apresentados e explicados na ordem em que são utilizados nesse trabalho.
+Neste repositório serão disponilizados todos os arquivos e orientações necessários para reproduzir a dissertação desenvolvida por <strong>Humberto Almeida Guimarães</strong> e orientada por João Alberto Passos Filho. 
 
 ## Descritivo dos arquivos
 
@@ -15,4 +17,4 @@ Neste repositório serão disponilizados todos os arquivos e orientações neces
 - **Arquivos em formato Anarede (CEPEL) disponibilizados pelo ONS**
 - **Imagens obtidas como resultado das simulações**
 
-
+## Arquivos em formato MATLAB
