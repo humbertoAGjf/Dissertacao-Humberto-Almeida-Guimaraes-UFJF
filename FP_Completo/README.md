@@ -17,7 +17,7 @@ Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas dev
 No arquivo <strong>Main.mlx</strong> deve-se ligar as funções de acordo com o seu objetivo. Para isto, basta alterar o seguinte trecho do programa:
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Funções Desejadas" width="90%"/>
 
-Para cada função ativada, pode ser necessário alterar alguns de seus parâmetros. Abaixo é apresentado um exemplo para o fluxo de potência, no qual pode ser escolhido se será ou não considerado o controle de tensão, flatstart, controle secundário de frequência (CAG) e controle primário de frequência (Governor). Além disso, ainda podem ser feitas alterações nos passos de convergência do FP.
+Para cada função ativada, pode ser necessário alterar alguns de seus parâmetros. Abaixo é apresentado um exemplo para o fluxo de potência, no qual pode ser escolhido se será ou não considerado as seguintes funções: controle de tensão, flatstart, controle secundário de frequência (CAG) e controle primário de frequência (Governor). Além disso, ainda podem ser feitas alterações nos passos de convergência do FP.
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem2.png" alt="Dados do Fluxo de Potência" width="90%"/>
 
 Para selecionar o arquivo de sistema que será utilizado, basta trocar o nome na aba "Sistema Utilizado nas Análises":
