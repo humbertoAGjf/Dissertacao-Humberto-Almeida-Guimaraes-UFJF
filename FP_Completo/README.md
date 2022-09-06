@@ -18,7 +18,7 @@ Apenas o arquivo <strong>Main.mlx</strong> e os arquivo de dados de sistemas dev
 <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem1.png" alt="Funções Desejadas" width="90%"/>
 
 > Para cada função ativada, pode ser necessário alterar alguns de seus parâmetros. Abaixo é apresentado um exemplo para o fluxo de potência, no qual pode ser escolhido se será ou não considerado o controle de tensão, flatstart, controle secundário de frequência (CAG) e controle primário de frequência (Governor). Além disso, ainda podem ser feitas alterações nos passos de convergência do FP.
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem2.png" alt="Flags Main" width="90%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem2.png" alt="Dados do Fluxo de Potência" width="90%"/>
 
 > Para selecionar o arquivo de sistema que será utilizado, basta trocar o nome na aba "Sistema Utilizado nas Análises":
-<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem3.png" alt="Flags Main" width="90%"/>
+<img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem3.png" alt="Escolhe o Sistema" width="90%"/>
