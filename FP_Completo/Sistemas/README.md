@@ -64,7 +64,7 @@ Este documento tem a finalidade de explicar o arquivo entrada de dados, permitin
 
 <strong>Dados da matriz FptHVDCE</strong>:
 > - IndElo: índice do elo em que será feito o controle de frequência primário.
-> - #Mf: Stab50 → $m_f = K_1$; Caso convencional ou STF sem controle dinâmico → $m_f = m_0$; Caso STF com $m_f$ fixo → $m_f = m_f^{calculado}; Caso sem controle → $m_f = 0$$.
-> - #Mv: Stab50 → $m_f = K_2$; Caso convencional → remover a coluna; Caso STF → valor de $m_v = m_v^{calculado}$.
-> - #MfMax: Stab50 → $m_f = K_2$; Casos com $m_f$ dinâmico → usar o valor de $m_f^{max}$ calculado; Demais casos → remover a coluna.
+> - Mf: Stab50 → $m_f = K_1$; Caso convencional ou STF sem controle dinâmico → $m_f = m_0$; Caso STF com $m_f$ fixo → $m_f = m_f^{calculado}; Caso sem controle → $m_f = 0$$.
+> - Mv: Stab50 → $m_f = K_2$; Caso convencional → remover a coluna; Caso STF → valor de $m_v = m_v^{calculado}$.
+> - MfMax: Stab50 → $m_f = K_2$; Casos com $m_f$ dinâmico → usar o valor de $m_f^{max}$ calculado; Demais casos → remover a coluna.
 > <img src="https://github.com/humbertoAGjf/Dissertacao-Humberto-Ufjf/blob/main/Imagens/Imagem13.png" alt="Matriz FptGerE" width="90%"/>
